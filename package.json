@@ -1,0 +1,11 @@
+{
+  "name": "mario-kart-node",
+  "version": "1.0.0",
+  "description": "Projeto de curso de Node onde criamos um jogo do Mario Kart que roda apenas no terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
